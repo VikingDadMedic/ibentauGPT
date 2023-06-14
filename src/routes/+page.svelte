@@ -68,17 +68,17 @@
 					</svg>
 				</span>
                 <img
-                        src="https://images.unsplash.com/photo-1549078642-b2ba4bda0cdb?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=3&amp;w=144&amp;h=144"
+                        src="https://vs-user-public-assets.s3.amazonaws.com/simpleLogoBlkBgWhiteLogo.png"
                         alt=""
                         class="w-10 sm:w-16 h-10 sm:h-16 rounded-full"
                 />
             </div>
             <div class="flex flex-col leading-tight">
                 <div class="text-2xl mt-1 flex items-center">
-                    <span class="text-gray-700 mr-3">Ibentau x GPT</span>
+                    <span class="text-gray-700 mr-3">Roxie AI</span>
                 </div>
                 <span class="text-lg text-gray-600"
-                >A technical demo of GPT super-charging a school project</span
+                >Proof of Concept</span
                 >
             </div>
         </div>
@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <img
-                            src="https://images.unsplash.com/photo-1549078642-b2ba4bda0cdb?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=3&amp;w=144&amp;h=144"
+                            src="https://vs-user-public-assets.s3.amazonaws.com/simpleLogoBlkBgWhiteLogo.png"
                             alt="My profile"
                             class="w-6 h-6 rounded-full order-1"
                     />
@@ -138,7 +138,7 @@
                         </div>
                     </div>
                     <img
-                            src="https://images.unsplash.com/photo-1549078642-b2ba4bda0cdb?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=3&amp;w=144&amp;h=144"
+                            src="https://vs-user-public-assets.s3.amazonaws.com/simpleLogoBlkBgWhiteLogo.png"
                             alt="My profile"
                             class="w-6 h-6 rounded-full order-1"
                     />
